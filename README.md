@@ -1,6 +1,6 @@
-# erminioapp
+# Flutter
 
-A new Flutter project.
+An original copy of Netflix on Flutter.
 
 ## Getting Started
 
