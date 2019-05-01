@@ -1,6 +1,6 @@
-# Flutter
+# Dark Tabs Template Flutter
 
-An original copy of Netflix on Flutter.
+This is a dark template for Flutter.
 
 ## Getting Started
 
